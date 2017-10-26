@@ -13,6 +13,7 @@
 		C30E98121FA154E100EEE2C8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C30E98111FA154E100EEE2C8 /* Assets.xcassets */; };
 		C30E98151FA154E100EEE2C8 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C30E98131FA154E100EEE2C8 /* LaunchScreen.storyboard */; };
 		C30E98181FA154E100EEE2C8 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = C30E98171FA154E100EEE2C8 /* main.m */; };
+		C30E98201FA15CAA00EEE2C8 /* SecondViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C30E981F1FA15CAA00EEE2C8 /* SecondViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,8 @@
 		C30E98141FA154E100EEE2C8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C30E98161FA154E100EEE2C8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		C30E98171FA154E100EEE2C8 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		C30E981E1FA15CAA00EEE2C8 /* SecondViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SecondViewController.h; sourceTree = "<group>"; };
+		C30E981F1FA15CAA00EEE2C8 /* SecondViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SecondViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +65,8 @@
 				C30E98091FA154E100EEE2C8 /* AppDelegate.m */,
 				C30E980B1FA154E100EEE2C8 /* ViewController.h */,
 				C30E980C1FA154E100EEE2C8 /* ViewController.m */,
+				C30E981E1FA15CAA00EEE2C8 /* SecondViewController.h */,
+				C30E981F1FA15CAA00EEE2C8 /* SecondViewController.m */,
 				C30E980E1FA154E100EEE2C8 /* Main.storyboard */,
 				C30E98111FA154E100EEE2C8 /* Assets.xcassets */,
 				C30E98131FA154E100EEE2C8 /* LaunchScreen.storyboard */,
@@ -142,6 +147,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C30E98201FA15CAA00EEE2C8 /* SecondViewController.m in Sources */,
 				C30E980D1FA154E100EEE2C8 /* ViewController.m in Sources */,
 				C30E98181FA154E100EEE2C8 /* main.m in Sources */,
 				C30E980A1FA154E100EEE2C8 /* AppDelegate.m in Sources */,
